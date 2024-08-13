@@ -1,7 +1,6 @@
 # Cyber Security Internship Diary
 
 
-
 ## Day 1: Introduction to Cyber Security
 
 ### Topics Covered
